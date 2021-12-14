@@ -1,0 +1,22 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Create a professional README.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBryan-Acosta/README-Brewer.git"
+  },
+  "author": "Bryan Acosta De La Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBryan-Acosta/README-Brewer/issues"
+  },
+  "homepage": "https://github.com/TheBryan-Acosta/README-Brewer#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
