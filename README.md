@@ -20,6 +20,10 @@ A sample of the README.md is contained inside the sample folder
 
 This Video will give steps on how to install and use this product
 
+
+https://user-images.githubusercontent.com/82281061/146162156-1c72c3af-677b-4aac-93cc-49bd0a61c23a.mp4
+
+
 ## **Installation**
 
 VSCODE(Recommended)
